@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "769446506394",
+    "firebase_url": "https://boondadiscussion-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "boondadiscussion",
+    "storage_bucket": "boondadiscussion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769446506394:android:71be756b52e983dc991423",
+        "android_client_info": {
+          "package_name": "com.example.boonda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlFZDHoT9SogucgGVd_ZXGOnW9mHzV5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769446506394:android:c5d59b2089e7f3d0991423",
+        "android_client_info": {
+          "package_name": "com.example.discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlFZDHoT9SogucgGVd_ZXGOnW9mHzV5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769446506394:android:11fc21d14d3ed854991423",
+        "android_client_info": {
+          "package_name": "com.example.justtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlFZDHoT9SogucgGVd_ZXGOnW9mHzV5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769446506394:android:851bbf6c59eadcb6991423",
+        "android_client_info": {
+          "package_name": "com.example.testdiscussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlFZDHoT9SogucgGVd_ZXGOnW9mHzV5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769446506394-fhop934f8im6jcr1lilv55usgo75n2a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
