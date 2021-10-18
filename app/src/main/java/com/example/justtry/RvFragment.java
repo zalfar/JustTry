@@ -38,7 +38,7 @@ public class RvFragment extends Fragment {
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         list = new ArrayList<Model>();
 
-        reference = FirebaseDatabase.getInstance().getReference().child("Discussion").child("Education");
+        reference = FirebaseDatabase.getInstance().getReference().child("try");
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
