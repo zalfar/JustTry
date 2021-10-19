@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:padding="16dp"
     tools:context=".RvFragment">
 
     <TextView
@@ -12,6 +13,12 @@
         android:text="Question"
         android:gravity="center"
         android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="graph"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv"
